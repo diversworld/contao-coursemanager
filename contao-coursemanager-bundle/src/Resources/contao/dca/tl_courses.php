@@ -27,8 +27,6 @@ $GLOBALS['TL_DCA']['tl_courses'] = [
         ],
     ],
     'edit'        => [
-        'buttons_callback' => [
-            ['tl_courses', 'buttonsCallback']
         ]
     ],
     'list'        => [

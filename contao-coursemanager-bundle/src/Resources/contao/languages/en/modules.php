@@ -16,6 +16,7 @@
  */
 $GLOBALS['TL_LANG']['MOD']['course_manager'] = 'Course Manager';
 $GLOBALS['TL_LANG']['MOD']['course_planner'] = ['Course Planner', 'Planning of repeating Courses'];
+$GLOBALS['TL_LANG']['MOD']['course_dates'] = ['Course Dates', 'Planning of Coursedates'];
 
 /**
 * Frontend modules
