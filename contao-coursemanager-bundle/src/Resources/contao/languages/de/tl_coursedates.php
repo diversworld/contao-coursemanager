@@ -14,8 +14,8 @@
 /**
  * Legends
  */
-$GLOBALS['TL_LANG']['tl_courses']['first_legend'] = "Basis Einstellungen";
-$GLOBALS['TL_LANG']['tl_courses']['second_legend'] = "Erweiterte Einstellungen";
+$GLOBALS['TL_LANG']['tl_courses']['first_legend']	= "Termininformationen";
+$GLOBALS['TL_LANG']['tl_courses']['second_legend']	= "Sichtbarkeit";
 
 /**
  * Operations
@@ -28,12 +28,14 @@ $GLOBALS['TL_LANG']['tl_courses']['show'] = ["Datensatz mit ID: %s ansehen", "Da
 /**
  * Fields
  */
-$GLOBALS['TL_LANG']['tl_courses']['title'] = ["Name", "Geben Sie einen Namen ein"];
-$GLOBALS['TL_LANG']['tl_courses']['selectField'] = ["Select Feld", "Wählen Sie aus."];
-$GLOBALS['TL_LANG']['tl_courses']['checkboxField'] = ["Chosen Feld", "Wählen Sie aus."];
-$GLOBALS['TL_LANG']['tl_courses']['multitextField'] = ["Multitext Feld", "Geben Sie die Werte ein"];
-$GLOBALS['TL_LANG']['tl_courses']['addSubpalette'] = ["Erweiterte Einstellungen aktivieren", "Hier können Sie die erweiterten Einstellungen aktivieren."];
-$GLOBALS['TL_LANG']['tl_courses']['textareaField'] = ["Textarea", "Geben Sie einen Text ein"];
+$GLOBALS['TL_LANG']['tl_courses']['title']			= ["Kursnummer", "Geben Sie eine Kursnummer an."];
+$GLOBALS['TL_LANG']['tl_courses']['alias']			= ["Alias"];
+$GLOBALS['TL_LANG']['tl_courses']['description']	= ["Beschreibung","Kurze Kursbeschreibung."];
+$GLOBALS['TL_LANG']['tl_courses']['info']		    = ["Detailbeschreibung", "Wählen Sie die Seite mit der Detailbescheibung des Kurses aus."];
+$GLOBALS['TL_LANG']['tl_courses']['price']			= ["Preis", "Geben Sie den Preis des Kurses an."];
+$GLOBALS['TL_LANG']['tl_courses']['published']		= ["Veröffentlicht", "Soll der Kurstermin angezeigt werden."];
+$GLOBALS['TL_LANG']['tl_courses']['start']			= ["Anzeigen ab", "Ab diesem Datum soll der Kurs angezeigt werden."];
+$GLOBALS['TL_LANG']['tl_courses+']['stop']			= ["Anzeigen bis", "Bis zu diesem Datum soll der Kurs angezeigt werden."];
 
 /**
  * References
