@@ -1,0 +1,17 @@
+services:
+
+    # Contao frontend module Diversworld\ContaoCoursemanagerBundle\Controller\FrontendModule\CourseListingModuleController
+    Diversworld\ContaoCoursemanagerBundle\Controller\FrontendModule\CourseListingModuleController:
+        arguments:
+            - '@session'
+        tags:
+            - { name: contao.frontend_module, category: courses_modules, template: mod_course_listing_module, type: course_listing_module }
+            - { name: container.service_subscriber }
+        public: true
+
+    # Custom route
+    Diversworld\ContaoCoursemanagerBundle\Controller\MyCustomController:
+        arguments:
+            - '@twig'
+        public: true
+    

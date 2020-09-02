@@ -1,0 +1,62 @@
+{
+    "name": "diversworld/contao-coursemanager-bundle",
+    "description": "Courseplanning. Planning of repeating courses.",
+    "keywords": [
+        "contao","bundle","course","courseplan"
+    ],
+    "type": "contao-bundle",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Eckhard Becker",
+            "email": "info@diversworld.eu",
+            "homepage": "https://github.com/diversworld",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/diversworld/contao-coursemanager-bundle/issues",
+        "source": "https://github.com/diversworld/contao-coursemanager-bundle"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/diversworld/contao-coursemanager-bundle"
+        }
+    ],
+    "require": {
+        "contao/core-bundle": "^4.9",
+        "diversworld/contao-coursemanager-bundle": "dev-master"
+    },
+    "require-dev": {
+        "contao/test-case": "^4.0",
+        "contao/php-cs-fixer": "^2.2",
+        "contao/manager-plugin": "^2.3",
+        "phpunit/phpunit": "^8.4",
+        "symfony/http-client": "4.4.*",
+        "symfony/phpunit-bridge": "4.4.*"
+    },
+    "config": {
+        "github-oauth": {
+            "github.com": "7367b8d4df5ba5569f5ee970483b54ca27ee11ed"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Diversworld\\ContaoCoursemanagerBundle\\": "src/"
+        },
+        "classmap": [
+            "src/Resources/contao"
+        ],
+        "exclude-from-classmap": [
+            "src/Resources/contao/config",
+            "src/Resources/contao/dca",
+            "src/Resources/contao/languages",
+            "src/Resources/contao/templates"
+        ]
+    },
+    "extra": {
+        "contao-manager-plugin": "Diversworld\\ContaoCoursemanagerBundle\\ContaoManager\\Plugin"
+    },
+    "version": "0.2"
+}
