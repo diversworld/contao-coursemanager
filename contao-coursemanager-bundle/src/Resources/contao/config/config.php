@@ -15,11 +15,11 @@
  * Backend modules
  */
 $GLOBALS['BE_MOD']['course_manager'] = [
-    'course_planner' = [
+    'course_planner' => [
         'tables' => ['tl_courses'],
         'icon' => '../assets/icon.png'
     ],
-    ['course_dates'] = [
+    ['course_dates'] => [
         'tables' => ['tl_coursedates'],
         'icon' => '../assets/icon.png'
     ]
