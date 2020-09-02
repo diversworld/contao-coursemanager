@@ -1,4 +1,4 @@
-![Alt text](src/Resources/public/logo.png?raw=true "logo")
+![Alt text](contao-coursemanager-bundle/src/Resources/public/logo.png?raw=true "logo")
 
 # CourseManager
 # diversworld/contao-coursemanager-bundle
