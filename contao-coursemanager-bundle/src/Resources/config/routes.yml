@@ -1,0 +1,4 @@
+# config/routes.yml
+diversworld_contao_coursemanager.controller:
+    resource: ../../../src/Controller
+    type: annotation

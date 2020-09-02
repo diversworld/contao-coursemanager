@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9e2edab-830f-4159-9eb1-33c1c7423b50" name="Default Changelist" comment="d" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="diversworld" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="contao-coursemanager-bundle" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../.." />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1gV6hb6adjlHKD9WbQ2BeoMFxz1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../composer.json" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Schos\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9e2edab-830f-4159-9eb1-33c1c7423b50" name="Default Changelist" comment="" />
+      <created>1598187533113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598187533113</updated>
+      <workItem from="1598187534280" duration="4082000" />
+    </task>
+    <task id="LOCAL-00001" summary="d">
+      <created>1598188540968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598188540968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="d">
+      <created>1598265037145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598265037145</updated>
+    </task>
+    <task id="LOCAL-00003" summary="d">
+      <created>1598265057439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598265057439</updated>
+    </task>
+    <task id="LOCAL-00004" summary="d">
+      <created>1598265095734</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598265095734</updated>
+    </task>
+    <task id="LOCAL-00005" summary="d">
+      <created>1598265547506</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598265547506</updated>
+    </task>
+    <task id="LOCAL-00006" summary="d">
+      <created>1598267946081</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598267946081</updated>
+    </task>
+    <task id="LOCAL-00007" summary="d">
+      <created>1598267956255</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598267956255</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <confirmMoveToFailedCommit value="0" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="d" />
+    <option name="LAST_COMMIT_MESSAGE" value="d" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2506" y="263" key="#Inspections" timestamp="1598267871151">
+      <screen x="1920" y="0" width="1920" height="1170" />
+    </state>
+    <state x="2506" y="263" key="#Inspections/0.0.1920.1050/1920.0.1920.1170@1920.0.1920.1170" timestamp="1598267871151" />
+    <state x="2587" y="228" key="#PHP" timestamp="1598267728959">
+      <screen x="1920" y="0" width="1920" height="1170" />
+    </state>
+    <state x="2587" y="228" key="#PHP/0.0.1920.1050/1920.0.1920.1170@1920.0.1920.1170" timestamp="1598267728959" />
+    <state x="2472" y="243" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598267927264">
+      <screen x="1920" y="0" width="1920" height="1170" />
+    </state>
+    <state x="2472" y="243" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1170@1920.0.1920.1170" timestamp="1598267927264" />
+    <state x="2660" y="326" key="FileChooserDialogImpl" timestamp="1598268007993">
+      <screen x="1920" y="0" width="1920" height="1170" />
+    </state>
+    <state x="2660" y="326" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1170@1920.0.1920.1170" timestamp="1598268007993" />
+    <state x="2608" y="452" key="Github.CreatePullRequestDialog" timestamp="1598187807155">
+      <screen x="1920" y="0" width="1920" height="1170" />
+    </state>
+    <state x="2608" y="452" key="Github.CreatePullRequestDialog/0.0.1920.1050/1920.0.1920.1170@1920.0.1920.1170" timestamp="1598187807155" />
+    <state x="2702" y="483" key="Github.ShareDialog" timestamp="1598188015449">
+      <screen x="1920" y="0" width="1920" height="1170" />
+    </state>
+    <state x="2702" y="483" key="Github.ShareDialog/0.0.1920.1050/1920.0.1920.1170@1920.0.1920.1170" timestamp="1598188015449" />
+    <state x="2584" y="283" key="Github.UntrackedFilesDialog" timestamp="1598188020191">
+      <screen x="1920" y="0" width="1920" height="1170" />
+    </state>
+    <state x="2584" y="283" key="Github.UntrackedFilesDialog/0.0.1920.1050/1920.0.1920.1170@1920.0.1920.1170" timestamp="1598188020191" />
+    <state x="461" y="206" key="SettingsEditor" timestamp="1598265531422">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="206" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1598265531422" />
+    <state x="2381" y="230" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1170@1920.0.1920.1170" timestamp="1598264979081" />
+    <state x="2472" y="318" key="Vcs.Push.Dialog.v2" timestamp="1598265143170">
+      <screen x="1920" y="0" width="1920" height="1170" />
+    </state>
+    <state x="2472" y="318" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1170@1920.0.1920.1170" timestamp="1598265143170" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1598265331399">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1598265331399" />
+  </component>
+</project>
