@@ -14,7 +14,7 @@
 /**
  * Backend modules
  */
-$GLOBALS['BE_MOD']['course_manager'] = [
+$GLOBALS['BE_MOD']['course_manager'] => [
     'course_planner' => [
         'tables' => ['tl_courses'],
         'icon' => '../assets/icon.png'
