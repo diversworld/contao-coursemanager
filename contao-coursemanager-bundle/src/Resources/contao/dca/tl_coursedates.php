@@ -112,7 +112,8 @@ $GLOBALS['TL_DCA']['tl_coursedates'] = [
             'exclude' => true,
             'inputType' => 'select',
             'options_callback' => array('tl_coursedates', 'getActiveCourses'),
-            'eval' => array('mandatory' => true, 'tl_class' => 'w50')
+            'eval' => array('mandatory' => true, 'tl_class' => 'w50'),
+			'sql' => "int(10) unsigned NOT NULL default '0'"
         ],
         'alias' => [
             'exclude' => true,
