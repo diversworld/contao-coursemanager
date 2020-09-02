@@ -14,8 +14,9 @@
 /**
  * Backend modules
  */
-$GLOBALS['TL_LANG']['MOD']['course_manager'] = 'Course Manager';
-$GLOBALS['TL_LANG']['MOD']['course_planner'] = ['Course Planner', 'Planning of repeating Courses'];
+$GLOBALS['TL_LANG']['MOD']['course_manager'] 	= 'Kurs^Manager';
+$GLOBALS['TL_LANG']['MOD']['course_planner'] 	= ['Kurse', 'Liste aller angebotenen Kurse'];
+$GLOBALS['TL_LANG']['MOD']['course_dates'] 		= ['Kurstermine', 'Liste der angebotenen Kurstermine'];
 
 /**
 * Frontend modules
