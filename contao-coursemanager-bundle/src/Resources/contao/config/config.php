@@ -14,13 +14,14 @@
 /**
  * Backend modules
  */
-$GLOBALS['BE_MOD']['course_manager'] = array(
-    'course_planner' = array(
-        'tables' => ['tl_courses'],
+$GLOBALS['BE_MOD']['course_manager'] = array
+(
+    'course_planner' => array(
+        'tables' => array('tl_courses'),
         'icon' => '../assets/icon.png'
     ),
-    'course_dates' = array(
-        'tables' => ['tl_coursedates'],
+    'course_dates' => array(
+        'tables' => array('tl_coursedates'),
         'icon' => '../assets/icon.png'
     )
 );
