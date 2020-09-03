@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src" isTestSource="false" packagePrefix="Diversworld\ContaoCoursemanagerBundle\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/contents" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/tests/ContaoManager" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/ContaoManager" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Controller" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Controller/FrontendModule" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/DependencyInjection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Model" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Resources/config" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Resources/contao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Resources/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Resources/views" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Resources/contao/assets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Resources/contao/config" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Resources/contao/dca" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/en" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Resources/contao/templates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/contao-coursemanager-bundle/src/Resources/views/MyCustom" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
