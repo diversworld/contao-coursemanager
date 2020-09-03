@@ -14,7 +14,7 @@
 /**
  * Backend modules
  */
-$GLOBALS['BE_MOD']['course_manager'] = array
+$GLOBALS['BE_MOD']['course_manager'] => array
 (
     'course_planner' => array(
         'tables' => array('tl_courses'),
