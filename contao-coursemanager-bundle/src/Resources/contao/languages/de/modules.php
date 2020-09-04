@@ -21,5 +21,5 @@ $GLOBALS['TL_LANG']['MOD']['course_dates'] 		= ['Kurstermine', 'Liste der angebo
 /**
 * Frontend modules
 */
-$GLOBALS['TL_LANG']['FMD']['courses_modules'] = 'Course Modules';
-$GLOBALS['TL_LANG']['FMD']['course_listing_module'] = ['Course Listing', 'Show a List of all planned Coures'];
+$GLOBALS['TL_LANG']['FMD']['courses_modules'] 		= 'Kursmodul';
+$GLOBALS['TL_LANG']['FMD']['course_listing_module'] = ['Kursliste', 'Zeigt eine Liste der geplanten Kurstermine an.'];
