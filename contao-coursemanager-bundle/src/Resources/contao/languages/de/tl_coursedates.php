@@ -36,13 +36,13 @@ $GLOBALS['TL_LANG']['tl_courses']['startdate']		= ["Kursbeginn", "Wählen Sie da
 $GLOBALS['TL_LANG']['tl_courses']['enddate']		= ["Kursende", "Wählen Sie das Datum an dem der Kurs endet aus."];
 $GLOBALS['TL_LANG']['tl_courses']['published']		= ["Veröffentlicht", "Soll der Kurstermin angezeigt werden."];
 $GLOBALS['TL_LANG']['tl_courses']['start']			= ["Anzeigen ab", "Ab diesem Datum soll der Kurs angezeigt werden."];
-$GLOBALS['TL_LANG']['tl_courses+']['stop']			= ["Anzeigen bis", "Bis zu diesem Datum soll der Kurs angezeigt werden."];
+$GLOBALS['TL_LANG']['tl_courses']['stop']			= ["Anzeigen bis", "Bis zu diesem Datum soll der Kurs angezeigt werden."];
 
 /**
  * References
  */
-//$GLOBALS['TL_LANG']['tl_courses']['firstoption'] = "Erste Option";
-//$GLOBALS['TL_LANG']['tl_courses']['secondoption'] = "Zweite Option";
+$GLOBALS['TL_LANG']['tl_courses']['firstoption'] = "Erste Option";
+$GLOBALS['TL_LANG']['tl_courses']['secondoption'] = "Zweite Option";
 
 /**
  * Buttons
