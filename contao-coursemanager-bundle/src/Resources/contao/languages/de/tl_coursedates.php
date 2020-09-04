@@ -41,8 +41,8 @@ $GLOBALS['TL_LANG']['tl_courses+']['stop']			= ["Anzeigen bis", "Bis zu diesem D
 /**
  * References
  */
-$GLOBALS['TL_LANG']['tl_courses']['firstoption'] = "Erste Option";
-$GLOBALS['TL_LANG']['tl_courses']['secondoption'] = "Zweite Option";
+//$GLOBALS['TL_LANG']['tl_courses']['firstoption'] = "Erste Option";
+//$GLOBALS['TL_LANG']['tl_courses']['secondoption'] = "Zweite Option";
 
 /**
  * Buttons
