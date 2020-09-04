@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbb7e568-6a18-4fe1-8bf6-bd9663110b7c" name="Default Changelist" comment="up">
-      <change beforePath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/tl_courses.php" beforeDir="false" afterPath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/tl_courses.php" afterDir="false" />
-    </list>
+    <list default="true" id="fbb7e568-6a18-4fe1-8bf6-bd9663110b7c" name="Default Changelist" comment="up" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599124385984</updated>
       <workItem from="1599124387040" duration="8000" />
-      <workItem from="1599124958849" duration="6524000" />
+      <workItem from="1599124958849" duration="7124000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1599126535640</created>
