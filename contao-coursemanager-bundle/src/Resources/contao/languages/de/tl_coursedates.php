@@ -45,4 +45,3 @@ $GLOBALS['TL_LANG']['tl_coursedates']['stop']			= ["Anzeigen bis", "Bis zu diese
 /**
  * Buttons
  */
-
