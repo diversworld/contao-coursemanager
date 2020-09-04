@@ -14,8 +14,8 @@
 /**
  * Legends
  */
-$GLOBALS['TL_LANG']['tl_courses']['first_legend']	= "Termininformationen";
-$GLOBALS['TL_LANG']['tl_courses']['second_legend']	= "Sichtbarkeit";
+$GLOBALS['TL_LANG']['tl_coursedates']['first_legend']	= "Termininformationen";
+$GLOBALS['TL_LANG']['tl_coursedates']['second_legend']	= "Sichtbarkeit";
 
 /**
  * Operations
