@@ -120,7 +120,7 @@ $GLOBALS['TL_DCA']['tl_courses'] = [
             'exclude'       => true,
             'inputType'     => 'pageTree',
             'eval'          => ['fieldType'=>'radio'],
-            'sql' => "int(10) unsigned NOT NULL default '0'"
+            'sql'           => "int(10) unsigned NOT NULL default '0'"
         ],
         'description'       => [
             'exclude'       => true,
