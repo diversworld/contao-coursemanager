@@ -41,11 +41,8 @@ $GLOBALS['TL_LANG']['tl_coursedates']['stop']			= ["Anzeigen bis", "Bis zu diese
 /**
  * References
  */
-$GLOBALS['TL_LANG']['tl_coursedates']['firstoption'] = "Erste Option";
-$GLOBALS['TL_LANG']['tl_coursedates']['secondoption'] = "Zweite Option";
 
 /**
  * Buttons
  */
-$GLOBALS['TL_LANG']['tl_coursedates']['customButton'] = "Custom Routine starten";
 
