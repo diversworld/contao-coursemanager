@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbb7e568-6a18-4fe1-8bf6-bd9663110b7c" name="Default Changelist" comment="up">
-      <change beforePath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/tl_courses.php" beforeDir="false" afterPath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/tl_courses.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/tl_coursedates.php" beforeDir="false" afterPath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/tl_coursedates.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599124385984</updated>
       <workItem from="1599124387040" duration="8000" />
-      <workItem from="1599124958849" duration="5438000" />
+      <workItem from="1599124958849" duration="5532000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1599126535640</created>
@@ -187,5 +187,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="777" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1599215900477" />
+    <state x="667" y="229" width="585" height="592" key="find.popup" timestamp="1599219916182">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="667" y="229" width="585" height="592" key="find.popup/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1599219916182" />
   </component>
 </project>
