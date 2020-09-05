@@ -36,13 +36,15 @@ $GLOBALS['TL_LANG']['tl_courses']['price']			= ["Preis", "Geben Sie den Preis de
 $GLOBALS['TL_LANG']['tl_courses']['published']		= ["Veröffentlicht", "Soll der Kurstermin angezeigt werden."];
 $GLOBALS['TL_LANG']['tl_courses']['start']			= ["Anzeigen ab", "Ab diesem Datum soll der Kurs angezeigt werden."];
 $GLOBALS['TL_LANG']['tl_courses']['stop']			= ["Anzeigen bis", "Bis zu diesem Datum soll der Kurs angezeigt werden."];
+
 /**
  * References
  */
-
+$GLOBALS['TL_LANG']['tl_courses']['firstoption'] = "Erste Option";
+$GLOBALS['TL_LANG']['tl_courses']['secondoption'] = "Zweite Option";
 
 /**
  * Buttons
  */
-
+$GLOBALS['TL_LANG']['tl_courses']['customButton'] = "Custom Routine starten";
 
