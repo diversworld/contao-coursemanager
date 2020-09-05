@@ -23,6 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbb7e568-6a18-4fe1-8bf6-bd9663110b7c" name="Default Changelist" comment="up">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/default.php" beforeDir="false" afterPath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/default.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/modules.php" beforeDir="false" afterPath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/modules.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/tl_coursedates.php" beforeDir="false" afterPath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/tl_coursedates.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/tl_courses.php" beforeDir="false" afterPath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/languages/de/tl_courses.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599124385984</updated>
       <workItem from="1599124387040" duration="8000" />
-      <workItem from="1599124958849" duration="8562000" />
+      <workItem from="1599124958849" duration="8991000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1599126535640</created>
@@ -99,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599219939399</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="up">
+      <created>1599303268553</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599303268555</updated>
+    </task>
+    <task id="LOCAL-00006" summary="up">
+      <created>1599303610517</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599303610517</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,10 +204,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1599126456051" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599219952486">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599303271184">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1599219952486" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1599303271184" />
+    <state x="832" y="369" key="cloudConfig.SelfSettingsDialog" timestamp="1599303343699">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="832" y="369" key="cloudConfig.SelfSettingsDialog/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1599303343699" />
     <state x="777" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599215900477">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
