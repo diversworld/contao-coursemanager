@@ -67,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599124385984</updated>
       <workItem from="1599124387040" duration="8000" />
-      <workItem from="1599124958849" duration="9475000" />
+      <workItem from="1599124958849" duration="9789000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1599126535640</created>
@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599303711784</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="up">
+      <created>1599304476091</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599304476091</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,10 +212,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1599126456051" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599303271184">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599304481108">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1599303271184" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1599304481108" />
     <state x="832" y="369" key="cloudConfig.SelfSettingsDialog" timestamp="1599303343699">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
