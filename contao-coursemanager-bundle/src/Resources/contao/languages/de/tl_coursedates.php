@@ -20,10 +20,10 @@ $GLOBALS['TL_LANG']['tl_coursedates']['second_legend']	= "Sichtbarkeit";
 /**
  * Operations
  */
-$GLOBALS['TL_LANG']['tl_coursedates']['edit'] 	= ["Datensatz mit ID: %s bearbeiten", "Datensatz mit ID: %s bearbeiten"];
-$GLOBALS['TL_LANG']['tl_coursedates']['copy'] 	= ["Datensatz mit ID: %s kopieren", "Datensatz mit ID: %s kopieren"];
-$GLOBALS['TL_LANG']['tl_coursedates']['delete'] = ["Datensatz mit ID: %s löschen", "Datensatz mit ID: %s löschen"];
-$GLOBALS['TL_LANG']['tl_coursedates']['show'] 	= ["Datensatz mit ID: %s ansehen", "Datensatz mit ID: %s ansehen"];
+$GLOBALS['TL_LANG']['tl_coursedates']['edit'] 	        = ["Datensatz mit ID: %s bearbeiten", "Datensatz mit ID: %s bearbeiten"];
+$GLOBALS['TL_LANG']['tl_coursedates']['copy'] 	        = ["Datensatz mit ID: %s kopieren", "Datensatz mit ID: %s kopieren"];
+$GLOBALS['TL_LANG']['tl_coursedates']['delete']         = ["Datensatz mit ID: %s löschen", "Datensatz mit ID: %s löschen"];
+$GLOBALS['TL_LANG']['tl_coursedates']['show'] 	        = ["Datensatz mit ID: %s ansehen", "Datensatz mit ID: %s ansehen"];
 
 /**
  * Fields
@@ -41,10 +41,10 @@ $GLOBALS['TL_LANG']['tl_coursedates']['stop']			= ["Anzeigen bis", "Bis zu diese
 /**
  * References
  */
-$GLOBALS['TL_LANG']['tl_coursedates']['firstoption'] = "Erste Option";
-$GLOBALS['TL_LANG']['tl_coursedates']['secondoption'] = "Zweite Option";
+$GLOBALS['TL_LANG']['tl_coursedates']['firstoption']    = "Erste Option";
+$GLOBALS['TL_LANG']['tl_coursedates']['secondoption']   = "Zweite Option";
 
 /**
  * Buttons
  */
-$GLOBALS['TL_LANG']['tl_coursedates']['customButton'] = "Custom Routine starten";
+$GLOBALS['TL_LANG']['tl_coursedates']['customButton']   = "Custom Routine starten";
