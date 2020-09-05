@@ -24,7 +24,7 @@ use Contao\Model;
  */
 class CoursesModel extends Model
 {
-    protected static $strTable = 'tl_courses';
-
+    protected static $strTableCourses   = 'tl_courses';
+    protected static $strTableDates     = 'tl_coursedates';
 }
 
