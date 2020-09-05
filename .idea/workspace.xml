@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbb7e568-6a18-4fe1-8bf6-bd9663110b7c" name="Default Changelist" comment="up" />
+    <list default="true" id="fbb7e568-6a18-4fe1-8bf6-bd9663110b7c" name="Default Changelist" comment="up">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/contao-coursemanager-bundle/src/Resources/contao/config/config.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599124385984</updated>
       <workItem from="1599124387040" duration="8000" />
-      <workItem from="1599124958849" duration="10384000" />
+      <workItem from="1599124958849" duration="10597000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1599126535640</created>
@@ -125,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599304476091</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="up">
+      <created>1599305160137</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599305160137</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,10 +222,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1599126456051" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599304481108">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599305181525">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1599304481108" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1170@0.0.1920.1050" timestamp="1599305181525" />
     <state x="832" y="369" key="cloudConfig.SelfSettingsDialog" timestamp="1599303343699">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
